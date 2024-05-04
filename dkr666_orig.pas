@@ -1,7 +1,7 @@
 ﻿program DequeProgram;
 
 const
-  MAX_SIZE = 5;
+  MAX_SIZE = 6;
 
 type
   TDeque = record
